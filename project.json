@@ -1,0 +1,407 @@
+{
+  "schema": "capcut-like-timeline-v1",
+  "note": "This is a generic timeline JSON intended for assembly in CapCut; re-link media to './fall 2025/' folder and reproduce transitions/effects.",
+  "project_name": "Where the Leaves Whisper — Fall 2025",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "frame_rate": 30,
+  "audio": {
+    "track": "soft_vocal_fall_theme_placeholder.mp3",
+    "license_note": "User to replace with licensed track (Tom Speight/The Paper Kites style)",
+    "mix_db": -12,
+    "duck_under_dialog": false,
+    "fade_in": 1.0,
+    "fade_out": 2.0
+  },
+  "title_style_global": {
+    "font_family": "Modern/Cinematic",
+    "align": "center"
+  },
+  "timeline_seconds": 43.5,
+  "tracks": [
+    {
+      "name": "V1",
+      "role": "video",
+      "items": [
+        {
+          "type": "title",
+          "text": "Where the Leaves Whisper — Fall 2025",
+          "font": "Modern/Cinematic",
+          "duration": 3.0,
+          "transition_in": "fade",
+          "transition_out": "crossfade",
+          "style": {
+            "align": "center",
+            "bg": "overlay_on_first_shot",
+            "text_size": "large",
+            "text_weight": "regular",
+            "tracking": 2
+          }
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3367.MOV",
+          "start": 0.0,
+          "duration": 3.5,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            },
+            {
+              "name": "stabilize",
+              "params": {
+                "strength": 0.3
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3368.MOV",
+          "start": 0.0,
+          "duration": 3.5,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            },
+            {
+              "name": "stabilize",
+              "params": {
+                "strength": 0.3
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3369.MOV",
+          "start": 0.0,
+          "duration": 3.5,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            },
+            {
+              "name": "stabilize",
+              "params": {
+                "strength": 0.3
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3370.MOV",
+          "start": 0.0,
+          "duration": 3.5,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            },
+            {
+              "name": "stabilize",
+              "params": {
+                "strength": 0.3
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3371.MOV",
+          "start": 0.0,
+          "duration": 3.5,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            },
+            {
+              "name": "stabilize",
+              "params": {
+                "strength": 0.3
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3372.MOV",
+          "start": 0.0,
+          "duration": 3.5,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            },
+            {
+              "name": "stabilize",
+              "params": {
+                "strength": 0.3
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/abd4c64e-4c44-4ffd-a7eb-cd7b5bbf2c6d.jpg",
+          "start": 0.0,
+          "duration": 2.0,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "ken_burns",
+              "params": {
+                "zoom": 1.06,
+                "pan": "subtle"
+              }
+            },
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/5fe70b9e-6ff7-4de3-8fab-bd49003a7555.jpg",
+          "start": 0.0,
+          "duration": 2.0,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "ken_burns",
+              "params": {
+                "zoom": 1.06,
+                "pan": "subtle"
+              }
+            },
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/6a8dd780-6b9b-4dbe-9bae-711a3763d1b6.jpg",
+          "start": 0.0,
+          "duration": 2.0,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "ken_burns",
+              "params": {
+                "zoom": 1.06,
+                "pan": "subtle"
+              }
+            },
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/15d859f7-10f1-4ed3-aa0e-1fcbdfd8d07b.jpg",
+          "start": 0.0,
+          "duration": 2.0,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "ken_burns",
+              "params": {
+                "zoom": 1.06,
+                "pan": "subtle"
+              }
+            },
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3374.HEIC",
+          "start": 0.0,
+          "duration": 2.0,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "ken_burns",
+              "params": {
+                "zoom": 1.06,
+                "pan": "subtle"
+              }
+            },
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3377.HEIC",
+          "start": 0.0,
+          "duration": 2.0,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "ken_burns",
+              "params": {
+                "zoom": 1.06,
+                "pan": "subtle"
+              }
+            },
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3373.MOV",
+          "start": 0.0,
+          "duration": 3.5,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "crossfade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        },
+        {
+          "type": "clip",
+          "src": "./fall 2025/IMG_3413.MOV",
+          "start": 0.0,
+          "duration": 4.0,
+          "playback_speed": 1.0,
+          "transition_in": "crossfade",
+          "transition_out": "fade",
+          "effects": [
+            {
+              "name": "warm_grade",
+              "params": {
+                "temperature": "+15",
+                "contrast": "+10",
+                "saturation": "+8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A1",
+      "role": "music",
+      "items": [
+        {
+          "type": "music",
+          "src": "./fall 2025/soft_vocal_fall_theme_placeholder.mp3",
+          "start": 0.0,
+          "duration": 43.5
+        }
+      ]
+    }
+  ],
+  "export_preset": {
+    "format": "mp4",
+    "codec": "h264",
+    "bitrate": "10Mbps"
+  }
+}
